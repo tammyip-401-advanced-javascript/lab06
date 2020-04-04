@@ -5,7 +5,7 @@ Project Name: HTTP and REST
 Author: Tammy Ip
 
 Links and Resources (see below)
-submission PR: https://github.com/tammyip-401-advanced-javascript/notes/pull/5
+submission PR: https://github.com/tammyip-401-advanced-javascript/lab06/pull/1
 SwaggerHub API info: https://app.swaggerhub.com/apis-docs/iptmh/Lab06/0.1
 Server validation screenshot: https://drive.google.com/open?id=1nZvnBCc1hr3rrouWseVcP49ob_zJ7faL
 
